@@ -1,0 +1,4 @@
+name: transformers28
+channels:
+  - defaults
+prefix: C:\Users\germi\anaconda3\envs\transformers28
